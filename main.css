@@ -2,3 +2,8 @@
     text-align: center;
     background-color: blanchedalmond;   
 }
+.picture{
+    width: 350px;
+    height: auto;
+    border-radius: 200px;
+}
