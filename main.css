@@ -13,3 +13,14 @@
     font-size: 40px;
  
 }
+.btn{
+    display: flex;
+    padding: 10px;
+    width: 100px;
+    background-color: white;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    box-shadow: 5px;
+    font-size: 20px;
+}
