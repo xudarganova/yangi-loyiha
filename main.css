@@ -7,3 +7,9 @@
     height: auto;
     border-radius: 200px;
 }
+.section{
+    display: flex;
+    text-align: left;
+    font-size: 40px;
+ 
+}
