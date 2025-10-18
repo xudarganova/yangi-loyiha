@@ -1,6 +1,10 @@
 .container{
     text-align: center;
-    background-color: blanchedalmond;   
+    background-color: blanchedalmond; 
+    border: 5px solid #333;  
+    padding: 12px;
+    border-radius: 10px;
+    
 }
 .picture{
     width: 350px;
