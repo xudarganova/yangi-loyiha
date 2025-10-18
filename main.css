@@ -11,6 +11,8 @@
     display: flex;
     text-align: left;
     font-size: 40px;
+    width: 350;
+    height: auto;
  
 }
 .btn{
